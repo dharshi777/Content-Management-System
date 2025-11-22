@@ -1,0 +1,5 @@
+{
+  "name": "Shopify-style CMS Editor",
+  "description": "A rich text content management editor featuring table support, media embedding, and Gemini-powered AI content generation.",
+  "requestFramePermissions": []
+}
